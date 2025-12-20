@@ -1,1 +1,0 @@
-path_DB = 'test_DB.json' #Путь к json файлу
